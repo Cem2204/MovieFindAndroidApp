@@ -32,7 +32,7 @@
                 android:layout_below="@id/movie"
                 android:layout_centerHorizontal="true"
                 android:onClick="search"
-                android:text="Ara" />
+                android:text="Arama" />
         </LinearLayout>
         <TextView
             android:layout_width="wrap_content"
